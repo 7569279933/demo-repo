@@ -1,0 +1,3 @@
+Name: P. Meghana
+Course: BSc Data Science
+Github: enables us to upload our files in repository and we can make changes to our code and to write a detail report to our code.
